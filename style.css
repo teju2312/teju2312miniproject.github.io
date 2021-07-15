@@ -1,3 +1,4 @@
+
 html{
     
     background-image: linear-gradient(#FC5E55,#FA4083 );
@@ -212,6 +213,7 @@ input[type=text], input[type=email], textarea{
    box-sizing: border-box;
     padding-top: 1em;
     text-align: center;
+    font-weight:bold ;
 } 
 
 
@@ -228,6 +230,7 @@ input[type=text], input[type=email], textarea{
 }
 .avi{
     font-family: 'Roboto', sans-serif; 
+   font-weight: bold;
 }
 .heading{
     margin-top: 250pt;
@@ -543,4 +546,3 @@ input[type=text], input[type=email], textarea{
     }
 
   }   
- 
